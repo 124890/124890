@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @124890
-- 👀 I’m interested in mechanical engineering 
-- 🌱 I’m currently learning matlab and inventor
+- 👀 I’m interested in Materials science, engineering and quantitative trading
+- 🌱 I’m currently learning python and solidworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
