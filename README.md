@@ -1,7 +1,5 @@
 # Hi, I'm Douglas
 
-### Commodity research · Alternative data · Python
-
 I'm interested in how alternative data can inform commodity research and the pricing of energy-linked products. My repositories bring together exploratory computer vision, applied machine learning and materials modelling.
 
 ## Selected projects
@@ -10,8 +8,6 @@ I'm interested in how alternative data can inform commodity research and the pri
 | --- | --- | --- |
 | **[Oil storage tank image analysis](https://github.com/124890/Floating-Lid-Tank-Depth)** | Can tank imagery provide inputs for oil-inventory estimation? | A Python/OpenCV prototype exploring tank boundaries, shadow contours and floating-lid edges. Fill-level calculation and validation remain future work. |
 | **[Concrete strength prediction](https://github.com/124890/Comp-Challenge---2023-4)** | How do composition and age relate to concrete strength? | Team coursework comparing eight regression methods, tuning a random forest and exploring feature removal through interactive charts. |
-| **[Materials theory & simulation](https://github.com/124890/Materials_Theory_Sim)** | How can computation support the study of materials? | Assignment notebooks and supporting datasets for the MATE60002 Theory & Simulation of Materials module. |
-
 ## Tools used in these projects
 
 **Python · pandas · NumPy · scikit-learn · OpenCV · Matplotlib · Jupyter · ipywidgets**
