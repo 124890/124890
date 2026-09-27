@@ -1,8 +1,6 @@
-# Douglas Penning
+# Douglas
 
-I build Python projects for applied machine learning, computer vision and alternative-data research. I graduated from Imperial College London with First Class Honours in Materials Science & Engineering, and combine technical research with experience in digital-transformation consulting.
-
-My interests centre on turning scientific and commercial questions into software that can be inspected, tested and improved.
+I build Python projects for applied machine learning, computer vision and alternative-data research. I graduated from Imperial College London with First Class Honours in Materials Science & Engineering.
 
 [LinkedIn](https://www.linkedin.com/in/douglas-penning/) · [Public repositories](https://github.com/124890?tab=repositories&type=public)
 
@@ -37,8 +35,3 @@ Research poster examining how fruit purées affect starch–gelatine film proper
 - **Development:** Git, GitHub, Jupyter, Markdown and LaTeX.
 - **Additional programming:** basic C++.
 
-## Other research interests
-
-My private oil-pricing research explores alternative data and regression, gradient-boosting and neural-network approaches. I am also interested in building tools for open-source intelligence research.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/douglas-penning/) to discuss applied AI, research software and relevant opportunities.
